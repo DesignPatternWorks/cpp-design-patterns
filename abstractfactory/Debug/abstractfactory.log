@@ -1,0 +1,9 @@
+﻿Build started 2016/1/21 13:55:42.
+     1>Project "C:\myWS\cpp\DP\abstractfactory\abstractfactory.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         abstractfactory.vcxproj -> C:\myWS\cpp\DP\Debug\AbstractFactory.exe
+     1>Done Building Project "C:\myWS\cpp\DP\abstractfactory\abstractfactory.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
