@@ -1,0 +1,19 @@
+﻿Build started 2016/2/17 12:32:15.
+     1>Project "C:\myWS\cpp\DP\Visitor\Visitor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\myProgram\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MyVisitor.cpp
+         MyVisitor.cpp
+     1>c:\myws\cpp\dp\visitor\myvisitor.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\myProgram\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\myWS\cpp\DP\Debug\Visitor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\myWS\cpp\DP\Debug\Visitor.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\myWS\cpp\DP\Debug\Visitor.lib" /MACHINE:X86 Debug\Visitor.res
+         Debug\MySubject.obj
+         Debug\MyVisitor.obj
+         Debug\Subject.obj
+         Debug\Visitor.obj
+         Debug\VisitorTest.obj
+         Visitor.vcxproj -> C:\myWS\cpp\DP\Debug\Visitor.exe
+     1>Done Building Project "C:\myWS\cpp\DP\Visitor\Visitor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.89
